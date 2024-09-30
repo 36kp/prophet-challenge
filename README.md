@@ -1,4 +1,4 @@
-# Coronal Mass Ejection (CME) and Geomagnetic Storms (GST) data analysis using Pandas and Jupyter notebook
+# Predicting search trends for MercadoLibre using Prophet and Colab
 
 ## About
 This program is developed to demonstrate my learnings as a part of AI Boot-camp by University of Pennsylvania, Liberal and Professional Studies. [More Info...](https://bootcamp.sas.upenn.edu/artificial-intelligence/landing/)
